@@ -14,16 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: M-Bilal-Rasheed
           outputs: |
-            output/github-snake-dark.svg?palette=github-dark
-            output/github-snake.svg?palette=github-light
+            /tmp/snake/github-snake-dark.svg?palette=github-dark
+            /tmp/snake/github-snake.svg?palette=github-light
 
       - name: Deploy to output branch
         run: |
-          cd output
+          cd /tmp/snake
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
