@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/M-Bilal-Rasheed">
+  <a href="https://www.linkedin.com/in/bilal-rasheed-b33372324/">
     <img src="https://img.shields.io/badge/LinkedIn-BilalRasheed-0369A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:bilal.rasheed2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/M-Bilal-Rasheed">
@@ -103,12 +103,10 @@ I take a product-first approach: ship working AI-integrated products with clean 
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---|
-| **AI RAG Systems** | Retrieval-Augmented Generation with embeddings, vector DB & retrieval strategies | LangChain · ChromaDB · Gemini · Mistral | [GitHub](https://github.com/M-Bilal-Rasheed) |
-| **LangGraph AI Agents** | Agentic workflows with tools, memory & human-in-the-loop | LangGraph · Groq · Tavily | [GitHub](https://github.com/M-Bilal-Rasheed) |
-| **WhatsApp AI Bot** | AI-powered WhatsApp automation with conversational workflows | FastAPI · LangGraph · Groq | [GitHub](https://github.com/M-Bilal-Rasheed) |
-| **Multimodal RAG** | RAG pipeline for text, tables, diagrams & visual info | Gemini · LangChain · ChromaDB | [GitHub](https://github.com/M-Bilal-Rasheed) |
-| **MERN E-Commerce** | Full-stack e-commerce with auth, cart, orders & payments | React · Node.js · Express · MongoDB | [GitHub](https://github.com/M-Bilal-Rasheed) |
-| **Real-Time Chat App** | Modern chat application with authentication & real-time comms | React · Node.js · Express · MongoDB | [GitHub](https://github.com/M-Bilal-Rasheed) |
+| **MERN E-Commerce** | Full-stack e-commerce with auth, cart, orders & payments | React · Node.js · Express · MongoDB | [GitHub](https://github.com/M-Bilal-Rasheed/E-Commerce-Website) |
+| **Real-Time Chat App** | Modern chat application with authentication & real-time comms | React · Node.js · Express · MongoDB | [GitHub](https://github.com/M-Bilal-Rasheed/message_me) |
+| **Multimodal RAG** | RAG pipeline for text, tables, diagrams & visual info | Gemini · LangChain · ChromaDB · FastAPI | [GitHub](https://github.com/M-Bilal-Rasheed/RAG-Hybrid-Rerank-Techniques) |
+| **Multi Agent Researcher** | Multi-agent system for autonomous research & analysis | LangGraph · LangChain · Groq | [GitHub](https://github.com/M-Bilal-Rasheed/Multi-Agent-Researcher) |
 
 ---
 
@@ -117,6 +115,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 | Achievement | Result |
 |---|---|
 | 🥇 **AgentHack 2026** | **1st Place — Team Teen Haseen** |
+| 🏆 **IEEE Hackathon** | **Winner — Team BuildandDebug** |
 | 🤖 AI Projects | Multiple RAG & Agentic AI projects |
 | 💻 Full-Stack Projects | Multiple MERN applications |
 | 🧠 AI Engineering | Continuous experimentation with LLMs |
@@ -183,7 +182,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E293B&height=4&section=header"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/M-Bilal-Rasheed">
+  <a href="https://www.linkedin.com/in/bilal-rasheed-b33372324/">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0369A1?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
