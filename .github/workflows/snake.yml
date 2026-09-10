@@ -5,20 +5,23 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: M-Bilal-Rasheed
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.svg?palette=github-light
 
-      - name: Deploy SVG to output branch
+      - name: Deploy to output branch
         run: |
           cd dist
           git init
@@ -26,4 +29,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Update snake"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/M-Bilal-Rasheed/M-Bilal-Rasheed.git HEAD:output
+          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git HEAD:output
