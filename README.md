@@ -116,9 +116,7 @@ I take a product-first approach: ship working AI-integrated products with clean 
 |---|---|
 | 🥇 **AgentHack 2026** | **1st Place — Team Teen Haseen** |
 | 🏆 **IEEE Hackathon** | **Winner — Team BuildandDebug** |
-| 🤖 AI Projects | Multiple RAG & Agentic AI projects |
-| 💻 Full-Stack Projects | Multiple MERN applications |
-| 🧠 AI Engineering | Continuous experimentation with LLMs |
+
 
 ---
 
